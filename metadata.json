@@ -1,0 +1,59 @@
+{
+  "siteId": "fall-clothing-organization",
+  "generatedAt": "2026-06-04T11:35:19.147365",
+  "categories": [
+    "beginner-fall-clothing-organization",
+    "advanced-fall-clothing-organization",
+    "tips-fall-clothing-organization",
+    "history-fall-clothing-organization",
+    "trending-fall-clothing-organization",
+    "tutorials-fall-clothing-organization"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-fall-clothing-organization",
+      "category_name": "Beginner Fall Clothing Organization"
+    },
+    {
+      "category_slug": "advanced-fall-clothing-organization",
+      "category_name": "Advanced Fall Clothing Organization"
+    },
+    {
+      "category_slug": "tips-fall-clothing-organization",
+      "category_name": "Fall Clothing Organization Tips"
+    },
+    {
+      "category_slug": "history-fall-clothing-organization",
+      "category_name": "Fall Clothing Organization History"
+    },
+    {
+      "category_slug": "trending-fall-clothing-organization",
+      "category_name": "Trending Fall Clothing Organization"
+    },
+    {
+      "category_slug": "tutorials-fall-clothing-organization",
+      "category_name": "Fall Clothing Organization Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "fall-clothing-organization",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Fall Clothing Organization Central",
+    "articles_per_row": 4
+  }
+}
